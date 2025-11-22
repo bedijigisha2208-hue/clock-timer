@@ -7,10 +7,10 @@ body {
 }
 #myclock {
     font-size: 80px;
-    color:white;
+    color: black;
     letter-spacing: 3px;
     font-weight:bold;
-    text-shadow: 0 10px  rgba(255, 255, 255, 0.7);
+    text-shadow: 0 10px  rgba(190, 173, 173, 0.7);
 }
 #clock {
     font-size: 2rem;
