@@ -5,7 +5,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 #myclock {
-    font-size: 400px;
+    font-size: 80px;
     color:white;
     letter-spacing: 3px;
 }
@@ -15,7 +15,7 @@ body {
     text-align: center;
 }
 #title {
-    font-size: 200px;
+    font-size: 50px;
     font-family:'Times New Roman', Times, serif;
     padding: 10px;
     color: black;
@@ -25,5 +25,5 @@ body {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
-    height: auto;
+    height: 100px;
 }
