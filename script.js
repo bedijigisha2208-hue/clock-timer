@@ -13,7 +13,7 @@ function updateClock() {
         seconds = "0" + seconds;
 
     }
-    document.getElementById("clock").innerhtml = hours + ":" + minutes + ":" + seconds + ":";
+    document.getElementById("myclock").innerHTML = hours + ":" + minutes + ":" + seconds + ":";
 }
 setInterval(updateClock, 1000);
 updateClock();
