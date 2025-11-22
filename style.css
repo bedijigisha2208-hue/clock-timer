@@ -20,9 +20,10 @@ body {
     padding: 10px;
     color: black;
 }
-img {
+.center-img {
     display: block;
     margin-left: auto;
-    margin-left: auto;
-    width: 300px;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }
