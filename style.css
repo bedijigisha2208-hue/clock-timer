@@ -12,11 +12,17 @@ body {
 #clock {
     font-size: 2rem;
     color: white;
-    text-align: center;
+    text-align: right;
 }
 #title {
     font-size: 30px;
     font-family:'Times New Roman', Times, serif;
     padding: 10px;
     color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    width: 300px;
 }
